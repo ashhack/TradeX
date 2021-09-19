@@ -1,2 +1,2 @@
 # TradeX
-Algorithmic trading using zerodha
+Algorithmic trading using 5paisa
