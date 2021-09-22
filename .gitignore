@@ -3,3 +3,4 @@ legacy
 *.csv
 *.xlsx
 *.ipynb
+secrets.yml
